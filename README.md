@@ -52,7 +52,7 @@ Required software:
    - [PhantomJS](http://phantomjs.org/) — launch with `phantomjs
      --webdriver=4444` command.
 
-   - Cloud WebDriver services, such as such as
+   - Cloud WebDriver services, such as
      [SauceLabs] (http://saucelabs.com/) or
      [BrowserStack](http://www.browserstack.com/)
      
